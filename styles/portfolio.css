@@ -32,7 +32,8 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px 10px 200px;
+    padding: 50px 200px;
+    /* padding: 50px 200px 10px 200px; */
 }
 
 nav li {
@@ -98,6 +99,8 @@ nav ul {
     width: auto;
     height: 100vh;
     margin-right: 70px;
+    /* background-repeat: no-repeat;
+    background-position: left */
 
 }
 
